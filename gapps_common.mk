@@ -81,7 +81,7 @@ PRODUCT_COPY_FILES += \
         vendor/google/prebuilt/usr/srec/en-US/dict:system/usr/srec/en-US/dict \
         vendor/google/prebuilt/usr/srec/en-US/dictation.config:system/usr/srec/en-US/dictation.config \
         vendor/google/prebuilt/usr/srec/en-US/embed_phone_nn_model:system/usr/srec/en-US/embed_phone_nn_model \
-        vendor/google/prebuilt/usr/srec/en-US/embed_phone_nn_stable_sym:system/usr/srec/en-US/embed_phone_nn_stable_sym \
+        vendor/google/prebuilt/usr/srec/en-US/embed_phone_nn_state_sym:system/usr/srec/en-US/embed_phone_nn_state_sym \
         vendor/google/prebuilt/usr/srec/en-US/endpointer_dictation.config:system/usr/srec/en-US/endpointer_dictation.config \
         vendor/google/prebuilt/usr/srec/en-US/endpointer_voicesearch.config:system/usr/srec/en-US/endpointer_voicesearch.config \
         vendor/google/prebuilt/usr/srec/en-US/ep_acoustic_model:system/usr/srec/en-US/ep_acoustic_model \
